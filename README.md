@@ -7,6 +7,7 @@
 I'm currently studying Computer Engineering at Universidad Europea del Atlántico. I've always been passionate about technology, and I'm excited to start this new chapter as a developer. But what I'm most looking forward to is building tons of cool projects!! :sunglasses: :boom: :fire:
 
 ## My learning journey
+<img align="right" src="Chapter-01.png" width="500" alt="The beginning of my journey">
 
 ### Chapter 01 — First Year
 I had limited programming experience before starting university. I was deep into **tutorial hell** and never got out. 
