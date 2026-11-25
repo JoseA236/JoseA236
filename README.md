@@ -1,4 +1,4 @@
-
+![Late-night coding in Santander](banner.png)
 # Hello, world!
 
 <!-- Main pixel art banner -->
