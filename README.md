@@ -9,19 +9,17 @@ I'm currently studying Computer Engineering at Universidad Europea del Atlántic
 ## My learning journey
 
 ### Chapter 01 — First Year
+<p align="center">
+  <img src="Chapter-01.png" width="500" alt="The beginning of my journey">
+</p>
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <p>I had limited programming experience before starting university. I was deep into <b>tutorial hell</b> and never got out. </p>
-      <p>But ever since starting my studies, I've been able to develop my own programs without following any tutorials! And now that I'm learning the basics of Java, I'm building little projects and expanding them as I see new concepts.</p>
-      <p>By the end of this first year, I'd like to  have made many different programs, and also have a polished version of my own video game, Dungeon Escape! :eyes:</p>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="Chapter-01.png" width="400" alt="The beginning of my journey">
-    </td>
-  </tr>
-</table>
+
+I had limited programming experience before starting university. I was deep into **tutorial hell** and never got out.
+
+But ever since starting my studies, I've been able to develop my own programs without following any tutorials! And now that I'm learning the basics of Java, I'm building little projects and expanding them as I see new concepts.
+
+By the end of this first year, I'd like to have made many different programs, and also have a polished version of my own video game, Dungeon Escape! :eyes:
+
 
 ## Languages & tools
 
